@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>#DigiCanCon &#8211; Connie Brummel Crook</title>
+	<atom:link href="/tag/digicancon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 11 Dec 2016 22:37:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">193382778</site>	<item>
+		<title>Canada&#8217;s Culture Past and Present</title>
+		<link>/2016/12/11/canadas-culture-past-and-present/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 11 Dec 2016 22:37:50 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[#CdnStorytellers]]></category>
+		<category><![CDATA[#DigiCanCon]]></category>
+		<category><![CDATA[Canada's Culture Past and Present]]></category>
+		<category><![CDATA[Canadian Heritage]]></category>
+		<guid isPermaLink="false">http://www.conniebrummelcrook.ca/?p=433</guid>
+
+					<description><![CDATA[On September 13, 2016, Minister Mélanie Joly launched consultations on &#8220;Canadian Content in a Digital World&#8221;. Connie shared her Canadian story. The original article can be found at http://www.canadiancontentconsultations.ca/stories/stories/canadas-culture-past-and-present. #CdnStorytellers #DigiCanCon I am a writer of historical fiction and dramatized biography. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>On September 13, 2016, Minister Mélanie Joly launched consultations on &#8220;Canadian Content in a Digital World&#8221;. Connie shared her Canadian story. The original article can be found at <a href="http://www.canadiancontentconsultations.ca/stories/stories/canadas-culture-past-and-present" target="_" rel="noopener noreferrer">http://www.canadiancontentconsultations.ca/stories/stories/canadas-culture-past-and-present</a>.</em><br />
+<em> #CdnStorytellers</em><br />
+<em> #DigiCanCon</em></p>
+<hr />
+<p>I am a writer of historical fiction and dramatized biography. I’ve always had a special interest in Canadian history, as my ancestors were Loyalists who fled to Canada after the American Revolutionary War from 1775-1783. I first heard about those times from an elderly great grandfather who lived with us and sang old ballads to me as a young child. Much later, as a teacher in Ontario’s secondary schools for thirty years, I found that history texts often were difficult and boring for students and not at all like those stories sung to me by my Grandpa-pa. So, in my retirement, I chose to write. After many submissions and rewrites, my first book, <i>The Flight of a Refugee Family</i>, shortened to <a href="http://www.conniebrummelcrook.ca/books/the-meyers-saga/flight/"  target="_" rel="noopener noreferrer"><i>Flight</i></a> by the publisher, was published in 1991 and it is still in print. My twelve novels and two picture books have followed and all but one are still in print.</p>
+<p>There are so many tales of struggle, tragedy, and victory related to the settlement of Upper Canada (now Ontario) and of interaction between white settlers and Native peoples. By remembering and reflecting on these events, we honour the people who shaped our country. The Native peoples taught these white settlers how to use wild herbs as food and medicine; how to plant corn; how to canoe and snowshoe; how to make garments out of deerskin; how to harvest wild rice in places like Rice Lake, the setting for my <a href="http://www.conniebrummelcrook.ca/books/picture-books/maple-moon/"  target="_" rel="noopener noreferrer"><i>Maple Moon</i></a> picture book.</p>
+<p>Survival and courage in the face of harsh circumstances have been constant themes in Canadian literature and culture, and the origins of this can be seen in my stories. History often repeats itself – as we see with the influx of refugees today. I am pleased that we are coming to the aid of these talented but unfortunate people – just as the Native people of what is now Ontario helped my ancestors, the Loyalists, to adjust to this new land. I hope that it might be my privilege to meet and write about some of the newest refugees coming to Ontario. With determination, endurance and great courage, our ancestors kept struggling on till life became better, and these are worthwhile goals for every generation of Canadians.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">433</post-id>	</item>
+	</channel>
+</rss>
