@@ -41,11 +41,14 @@ h6 {
 	margin-bottom: 20px;
 	letter-spacing: 1px;
 }
-a,
-a:hover {
-	color: #fcd088;
+a {
+	color: #8c6d3a;
 	-webkit-transition: color 0.3s;
 	transition: color 0.3s;
+}
+a:hover {
+	color: #a9864e;
+	text-decoration: underline;
 }
 blockquote {
 	border-left: 5px solid #ebebeb;
